@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brian Zeligson | Random thoughts on web development
+title: Random thoughts on web development
 ---
 {% include JB/setup %}
 
