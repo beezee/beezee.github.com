@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hell Jekyll"
+title: "Hello Jekyll"
 category: 
 tags: []
 ---
