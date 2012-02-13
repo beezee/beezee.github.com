@@ -4,9 +4,13 @@ title: Brian Zeligson | Random thoughts on web development
 ---
 {% include JB/setup %}
 
-  {% for page in paginator.posts %}
-    {% include single_page.html %}
-  {% endfor %}
+{% for post in site.posts %}
+  <div class="post">
+  <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+  {{ post.excerpt }}
+  <p> <a href="{{ post.url }}/#more" class="more-link"><span class="readmore">Read the rest of this entry »</span></a></p>
+  </div>
+{% endfor %}
 
 
 
