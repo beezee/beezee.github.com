@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WP Single Use Keys - the last time I will code expiring links in WP"
-category: WordPress
+category: wordpress
 tags: ['plugins', 'WordPress', 'expiring links', 'single use links']
 ---
 {% include JB/setup %}
