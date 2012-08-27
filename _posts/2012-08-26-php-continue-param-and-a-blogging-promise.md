@@ -20,7 +20,7 @@ Particularly, I found myself trying to understand this snippet that prints all p
     <?for($a=array(),$b=1;++$b<=1000;){foreach($a as$c)continue($b%$c?0:2);$a[]=$b;echo"\n".$b;}
     
 While I still don't understand how anything is accomplished iterating over an initially empty array,
-(when does $b%$c have a chance to be false?,) I was really into this idea of continue(0).
+(when does $b%$c have a chance to be true?,) I was really into this idea of continue(0).
 
 I'm typically a big fan of using ternary to limit conditional logic, and setting up the environment
 at the top of a block of logic so the same lines of code can be run every time. I find this much
