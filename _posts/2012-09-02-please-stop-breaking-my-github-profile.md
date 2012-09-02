@@ -24,7 +24,9 @@ The problem arises when I load the same page up in Chrome (running latest versio
 
 Let's imagine for a moment that a friend of mine recommends me for a position that pays 7 figures. The hiring manager happens to
 prefer the presentation of a github resume, and also happens to be really busy. She points her browser to http://resume.github.com/?beezee
-and sees the above.
+and sees 
+
+>"We couldn't find enough to build a resume from".
 
 What does a busy hiring manager think when looking at this message? _This guy has nothing to show. Moving on..._
 
