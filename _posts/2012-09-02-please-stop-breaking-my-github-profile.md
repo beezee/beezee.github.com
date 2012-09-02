@@ -37,6 +37,8 @@ a less offensive option:
 
 <img src="/assets/images/gr_better.png" />
 
+Even better would be to redirect straight to my github profile.
+
 If your app is going to represent people (especially without their consent,) please be responsible and take ownership of problems
 that occur in your code.
 
