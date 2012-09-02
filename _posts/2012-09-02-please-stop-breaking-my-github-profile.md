@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Please stop breaking my github profile"
-category: 'Development'
+category: Development
 tags: ['anti-patterns']
 ---
 {% include JB/setup %}
