@@ -6,6 +6,11 @@ tags: ['anti-patterns']
 ---
 {% include JB/setup %}
 
+###Update
+
+Thanks to [coverband](https://github.com/coverband) and [David Coallier](https://github.com/davidcoallier) for
+[promptly addressing this](https://github.com/resume/resume.github.com/pull/41).
+
 ###tl;dr - If you're going to scrape my data, make sure your error messages don't blame _me_ when something goes wrong.
 
 Right now the [top story](http://news.ycombinator.com/item?id=4466883) on hackernews is a link to a clever project that uses
