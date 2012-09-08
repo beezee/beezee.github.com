@@ -18,4 +18,4 @@ reading diffs.
 In a perfect world, I will only have to check that a) modified code has test coverage, and b) test coverage for modified code
 properly exercises the code that was modified. I'll already know the tests pass by virtue of the fact the commit was accepted.
 
-Going on my todo list right now...
+Going on my todo list right now, progress will be [here...](https://gist.github.com/3676474)
