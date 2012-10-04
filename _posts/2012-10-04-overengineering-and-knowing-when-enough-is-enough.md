@@ -6,7 +6,6 @@ tags: ['best-practices']
 ---
 {% include JB/setup %}
 
-
 I used to overengineer alot of stuff. I'd look back and had built a mercedes when what we needed was a golf cart.
 I'd either be excited about implementing a new pattern or technique I had learned, or I'd get carried away imagining
 what the software I was building might have to do in the future, and the end result was usually code that was elegant,
