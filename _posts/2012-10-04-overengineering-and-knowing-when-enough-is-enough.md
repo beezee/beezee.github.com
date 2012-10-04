@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Overengineering, and knowing when enough is enough"
-category: 
-tags: []
+category: Development
+tags: ['best-practices']
 ---
 {% include JB/setup %}
 
